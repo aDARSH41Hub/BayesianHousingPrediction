@@ -24,10 +24,11 @@ README.md	Project description and usage instructions
 requirements.txt	Python dependencies
 
 How to Run This Project
-Click this badge to open directly in Google Colab:https://colab.research.google.com/drive/1fbzmv-cxM5eMNBlhg9cq6TEAgYcZUraE#scrollTo=gXkOVzxTvtSG
+Click this badge to open directly in Google Colab: https://colab.research.google.com/github/aDARSH41Hub/Bayesian-Housing-Prediction/blob/main/ML_Project.ipynb
 
 
 Run all cells in order inside Colab.
+
 
 Use the sliders at the bottom to test different input values and view updated predictions.
 
@@ -43,4 +44,5 @@ Example Output
 (Add a screenshot here after running the notebook.)
 
 License
+
 This project is licensed under the MIT License.
