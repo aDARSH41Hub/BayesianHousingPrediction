@@ -1,8 +1,16 @@
-# BayesianHousingPrediction
+##BayesianHousingPrediction
 Bayesian Linear Regression with Interactive Counterfactual Predictions (YBI Internship Project)
 Author: Adarsh Pratap Singh
 College: Ajay Kumar Garg Engineering College – 3rd Year B.Tech
 Internship: YBI Foundation – Data Science & Machine Learning with Python using AI
+
+#GitHub’s preview may not display this notebook correctly because it contains interactive widgets.
+To view and run the project, please click the Open in Colab button in the README or use this link directly:
+
+Open in Google Colab
+
+Once opened in Colab, simply run all cells to see the complete model and interactive tool in action.
+
 
 Project Overview
 This project predicts California housing prices using Bayesian Linear Regression and includes an interactive counterfactual analysis tool. Users can change input features with sliders to see real-time predicted price updates along with 95% credible intervals, offering a deeper understanding of model uncertainty.
@@ -33,16 +41,7 @@ Run all cells in order inside Colab.
 
 Use the sliders at the bottom to test different input values and view updated predictions.
 
-Requirements
-nginx
-Copy
-Edit
-pymc
-scikit-learn
-ipywidgets
-numpy
-Example Output
-(Add a screenshot here after running the notebook.)
+
 
 License
 
