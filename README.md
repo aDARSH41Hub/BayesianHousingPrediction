@@ -25,7 +25,7 @@ README.md	Project description and usage instructions
 requirements.txt	Python dependencies
 
 How to Run This Project
-Click this badge to open directly in Google Colab: https://colab.research.google.com/github/aDARSH41Hub/Bayesian-Housing-Prediction/blob/main/ML_Project.ipynb
+Click this badge to open directly in Google Colab: https://colab.research.google.com/github/aDARSH41Hub/Bayesian-Housing-Prediction
 
 
 Run all cells in order inside Colab.
