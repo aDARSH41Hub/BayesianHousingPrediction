@@ -1,0 +1,46 @@
+Bayesian Linear Regression – California Housing Prices
+Author: Adarsh Pratap Singh
+College: Ajay Kumar Garg Engineering College – 3rd Year B.Tech
+Internship: YBI Foundation – Data Science & Machine Learning with Python using AI
+
+Project Overview
+This project predicts California housing prices using Bayesian Linear Regression and includes an interactive counterfactual analysis tool. Users can change input features with sliders to see real-time predicted price updates along with 95% credible intervals, offering a deeper understanding of model uncertainty.
+
+Features
+Bayesian Linear Regression for probabilistic predictions
+
+Dataset: California Housing from Scikit-learn
+
+Interactive sliders for "what-if" scenario testing
+
+Displays 95% credible intervals for each prediction
+
+Fully executable in Google Colab
+
+Files in this Repository
+File	Description
+ML_Project.ipynb	Main Google Colab notebook with model and interactive tool
+README.md	Project description and usage instructions
+requirements.txt	Python dependencies
+
+How to Run This Project
+Click this badge to open directly in Google Colab:https://colab.research.google.com/drive/1fbzmv-cxM5eMNBlhg9cq6TEAgYcZUraE#scrollTo=gXkOVzxTvtSG
+
+
+Run all cells in order inside Colab.
+
+Use the sliders at the bottom to test different input values and view updated predictions.
+
+Requirements
+nginx
+Copy
+Edit
+pymc
+scikit-learn
+ipywidgets
+numpy
+Example Output
+(Add a screenshot here after running the notebook.)
+
+License
+This project is licensed under the MIT License.
