@@ -1,0 +1,4 @@
+pymc
+scikit-learn
+ipywidgets
+numpy
