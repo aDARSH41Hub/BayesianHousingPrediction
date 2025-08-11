@@ -1,4 +1,4 @@
-##BayesianHousingPrediction
+#BayesianHousingPrediction
 Bayesian Linear Regression with Interactive Counterfactual Predictions (YBI Internship Project)
 Author: Adarsh Pratap Singh
 College: Ajay Kumar Garg Engineering College – 3rd Year B.Tech
