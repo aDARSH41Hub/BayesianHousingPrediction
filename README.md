@@ -7,7 +7,7 @@ Internship: YBI Foundation – Data Science & Machine Learning with Python using
 #GitHub’s preview may not display this notebook correctly because it contains interactive widgets.
 To view and run the project, please click the Open in Colab button in the README or use this link directly:
 
-Open in Google Colab : https://colab.research.google.com/github/aDARSH41Hub/BayesianHousingPrediction
+Open in Google Colab : https://colab.research.google.com/github/aDARSH41Hub/BayesianHousingPrediction/blob/main/ML_Project.ipynb
 
 Once opened in Colab, simply run all cells to see the complete model and interactive tool in action.
 
@@ -33,7 +33,7 @@ README.md	Project description and usage instructions
 requirements.txt	Python dependencies
 
 How to Run This Project
-Click this badge to open directly in Google Colab: https://colab.research.google.com/github/aDARSH41Hub/Bayesian-Housing-Prediction
+Click this badge to open directly in Google Colab: https://colab.research.google.com/github/aDARSH41Hub/BayesianHousingPrediction/blob/main/ML_Project.ipynb
 
 
 Run all cells in order inside Colab.
